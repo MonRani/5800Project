@@ -8,3 +8,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# Presentation files (kept locally, not in repo)
+PRESENTATION_SLIDES.md
+POWERPOINT_GUIDE.md
